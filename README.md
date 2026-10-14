@@ -53,5 +53,9 @@ The Power BI dashboard provides an interactive view of hospital performance and 
 
 ## Dashboard Preview
 
-![Hospital Dashboard Overview](Images/Hospital_Dashboard_Overview.png)
+![Hospital Dashboard Overview](Hospital_Dashboard_Overview.png)
+
+## Dashboard Modules
+
+### 01. Executive Summary
 
