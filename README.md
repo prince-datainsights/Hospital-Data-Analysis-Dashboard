@@ -60,34 +60,30 @@ The Power BI dashboard provides an interactive view of hospital performance and 
 
 ### 01. Executive Summary
 
-The Executive Summary dashboard provides a high-level overview of hospital performance through key metrics and interactive visualizations.
-
 ![Executive Summary](Images/Executive_Summary.png)
 
+The Executive Summary provides a high-level overview of hospital performance through key metrics and interactive visualizations.
 
 ### 02. Patient, Department & Doctor Analytics
 
-This dashboard focuses on patient distribution, department-level performance, and doctor-related analysis to understand hospital operations and service patterns.
+![Patient Department Doctor Analytics](Images/Patient_Department_Doctor_Analytics.png)
 
-![Patient Department Doctor Analytics](Images/Patient_Department _ Doctor_Analytics.png)
-
+This dashboard focuses on patient trends, department performance, and doctor-level analysis to understand hospital operations and service patterns.
 
 ### 03. Financial Dashboard
 
-The Financial Dashboard provides insights into hospital payment and financial performance using interactive visualizations and key financial metrics.
-
 ![Financial Dashboard](Images/Financial_Dashboard.png)
 
+The Financial Dashboard provides insights into hospital payments, revenue, and financial performance using interactive Power BI visualizations.
 
 ### 04. Pain Area Analysis – 1
 
-This section highlights important operational patterns and potential pain areas identified from the hospital data.
-
 ![Pain Area 1](Images/Pain_Area_1.png)
 
+This section highlights important operational patterns and areas that require attention based on the available hospital data.
 
 ### 05. Pain Area Analysis – 2
 
-This section provides additional analysis of hospital-related patterns and helps identify areas that may require attention.
+![Pain Area 2](Images/Pain_Area_2_.png)
 
-![Pain Area 2](Images/Pain_Area_2.png)
+This section provides additional analysis of hospital data to identify patterns and potential areas for improvement.
