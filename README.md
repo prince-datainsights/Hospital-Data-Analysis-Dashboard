@@ -60,7 +60,7 @@ The Power BI dashboard provides an interactive view of hospital performance and 
 
 ### 01. Executive Summary
 
-![Executive Summary](Images/Executive_Summary.png)
+![Executive Summary](Images/Executive Summary.png)
 
 The Executive Summary provides a high-level overview of hospital performance through key metrics and interactive visualizations.
 
