@@ -84,6 +84,6 @@ This section highlights important operational patterns and areas that require at
 
 ### 05. Pain Area Analysis – 2
 
-![Pain Area 2](Images/Pain_Area_2_.png)
+![Pain Area 2](Images/Pain_Area_2.png)
 
 This section provides additional analysis of hospital data to identify patterns and potential areas for improvement.
