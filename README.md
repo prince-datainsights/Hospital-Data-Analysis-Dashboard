@@ -92,3 +92,57 @@ This section highlights important operational patterns and areas that require at
 ![Pain Area 2](Images/Pain_Area_2..png)
 
 This section provides additional analysis of hospital data to identify patterns and potential areas for improvement.
+
+## Power BI Project File
+
+The complete Power BI project file is available below:
+
+[Download Power BI Project (.pbix)](Hospital_Data_Analysis%28Project%29.pbix)
+
+
+## Project Workflow
+
+Raw Hospital Data  
+↓  
+Data Cleaning & Transformation  
+↓  
+Power Query  
+↓  
+Power BI Data Modeling  
+↓  
+DAX & KPI Development  
+↓  
+Interactive Dashboard  
+↓  
+Data Analysis & Insights
+
+## Skills Demonstrated
+
+- Data Cleaning & Transformation
+- Data Analytics
+- Power BI Dashboard Development
+- Data Visualization
+- KPI Development
+- DAX
+- Power Query
+- Microsoft Excel
+- Healthcare Data Analysis
+- Business Intelligence
+
+  ## Repository Structure
+
+Hospital-Data-Analysis-Dashboard/
+│
+├── Dataset/
+│   └── Hospital Dataset
+│
+├── Images/
+│   ├── Executive_Summary.png
+│   ├── Patient_Department_Doctor_Analytics.png
+│   ├── Financial_Dashboard.png
+│   ├── Pain_Area_1.png
+│   └── Pain_Area_2..png
+│
+├── Hospital_Dashboard_Overview.png
+├── Hospital_Data_Analysis(Project).pbix
+└── README.md
