@@ -129,8 +129,9 @@ Data Analysis & Insights
 - Healthcare Data Analysis
 - Business Intelligence
 
-  ## Repository Structure
+ ## Repository Structure
 
+```text
 Hospital-Data-Analysis-Dashboard/
 │
 ├── Dataset/
