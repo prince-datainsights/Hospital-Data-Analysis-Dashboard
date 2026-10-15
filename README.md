@@ -55,6 +55,11 @@ The Power BI dashboard provides an interactive view of hospital performance and 
 
 ![Hospital Dashboard Overview](Hospital_Dashboard_Overview.png)
 
+## Power BI Project File
+
+The complete Power BI project file is available below:
+
+[Download Power BI Project (.pbix)](Hospital_Data_Analysis%28Project%29.pbix)
 
 ## Dashboard Modules
 
