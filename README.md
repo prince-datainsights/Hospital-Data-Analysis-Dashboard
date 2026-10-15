@@ -55,7 +55,39 @@ The Power BI dashboard provides an interactive view of hospital performance and 
 
 ![Hospital Dashboard Overview](Hospital_Dashboard_Overview.png)
 
+
 ## Dashboard Modules
 
 ### 01. Executive Summary
 
+The Executive Summary dashboard provides a high-level overview of hospital performance through key metrics and interactive visualizations.
+
+![Executive Summary](Images/Executive_Summary.png)
+
+
+### 02. Patient, Department & Doctor Analytics
+
+This dashboard focuses on patient distribution, department-level performance, and doctor-related analysis to understand hospital operations and service patterns.
+
+![Patient Department Doctor Analytics](Images/Patient_Department _ Doctor_Analytics.png)
+
+
+### 03. Financial Dashboard
+
+The Financial Dashboard provides insights into hospital payment and financial performance using interactive visualizations and key financial metrics.
+
+![Financial Dashboard](Images/Financial_Dashboard.png)
+
+
+### 04. Pain Area Analysis – 1
+
+This section highlights important operational patterns and potential pain areas identified from the hospital data.
+
+![Pain Area 1](Images/Pain_Area_1.png)
+
+
+### 05. Pain Area Analysis – 2
+
+This section provides additional analysis of hospital-related patterns and helps identify areas that may require attention.
+
+![Pain Area 2](Images/Pain_Area_2.png)
